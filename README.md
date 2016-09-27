@@ -51,7 +51,7 @@ An ASCII Cat:
   \__/  /(_O     \__/
     (  /
      ME
-```
+----------
 
 ### Representing the Board as an Array
 
